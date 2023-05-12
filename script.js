@@ -1,3 +1,3 @@
 
-let yourArray =['dhoni',7,true];
+let simpleArray =['dhoni',7,true];
 console.log(simpleArray.length);
